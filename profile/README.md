@@ -30,7 +30,8 @@ The API and the web and mobile apps are developed in private repositories.
   [help](https://github.com/headup-me/help).
 - **A question about a legal text?** Open an issue in [legal](https://github.com/headup-me/legal).
   Head Up makes the changes to the texts.
-- **A security problem?** Write to contact@headup.me instead of opening a public issue.
+- **A security problem?** Report it privately, as the
+  [security policy](https://github.com/headup-me/.github/blob/main/SECURITY.md) describes.
 
 ## Licenses
 

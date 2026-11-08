@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Help with using Head Up
+    url: https://headup.me/help/
+    about: Short guides to using Head Up, in English and Spanish.
+  - name: Report a security problem
+    url: https://github.com/headup-me/.github/blob/main/SECURITY.md
+    about: Report it privately, never in a public issue.
