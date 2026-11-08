@@ -1,0 +1,33 @@
+name: Report a problem
+description: Something on the website, in a guide, in a legal text or in the design system is wrong or unclear.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. For a security problem, follow the
+        [security policy](https://github.com/headup-me/.github/blob/main/SECURITY.md) instead.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+      description: What you saw, and what you expected instead.
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: The page address, the guide or the file.
+      placeholder: https://headup.me/help/
+    validations:
+      required: true
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      options:
+        - English
+        - Spanish
+        - Not language-specific
+    validations:
+      required: false
