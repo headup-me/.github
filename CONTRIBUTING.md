@@ -27,5 +27,6 @@ open; the API and the apps are developed in private repositories.
 ## Licenses
 
 By contributing, you agree that your contribution is published under the license of the repository
-it goes into: the MIT License for code, and CC BY 4.0 for guides and legal texts. Neither covers the
-Head Up name, logo or icons.
+it goes into: the MIT License for code, and CC BY 4.0 for guides. The legal texts are published for
+transparency with all rights reserved, and Head Up makes every change to them itself. None of these
+licenses covers the Head Up name, logo or icons.
