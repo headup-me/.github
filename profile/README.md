@@ -35,8 +35,9 @@ The API and the web and mobile apps are developed in private repositories.
 
 ## Licenses
 
-Code in the open repositories is under the MIT License, and the guides and legal texts are under
-CC BY 4.0. Neither covers the Head Up name, logo or icons.
+Code in the open repositories is under the MIT License, and the guides are under CC BY 4.0. The legal
+texts are published for transparency, with all rights reserved. None of these licenses covers the
+Head Up name, logo or icons.
 
 ## Contact
 
